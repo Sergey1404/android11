@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitForecaster</string>
+    <string name="textview" />
+    <string name="temperature">%1$s °C</string>
+</resources>
